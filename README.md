@@ -2,8 +2,6 @@
 
 Standalone coding keyboard for Android, written in Java.
 
-**By silent** · Project owner: [Mohammad-Nicke](https://github.com/Mohammad-Nicke)
-
 ## Use
 
 Copy the `keyboard` module into your Android project and add it to `settings.gradle`:
