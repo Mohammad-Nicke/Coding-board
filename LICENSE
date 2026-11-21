@@ -1,0 +1,52 @@
+Coding-board Additional Attribution Terms
+Version 1.0 — November 20, 2026
+
+Copyright (c) 2026 silent (Mohammad Nick)
+
+1. Scope and relationship to GPL-3.0
+
+These are additional attribution terms under section 7(b) and 7(c) of the GNU
+General Public License version 3.0 (GPL-3.0). They apply to original material
+added to Coding-board by silent (Mohammad Nick), and must be read together
+with GPL-3.0 when that material is conveyed as part of this project. The
+project's GPL-3.0 text is included in LICENSE-UNEXPECTED-KEYBOARD.
+
+These terms do not replace or change the license of third-party material.
+In particular, source and resources derived from Unexpected Keyboard remain
+under GPL-3.0, and other third-party material remains under its own stated
+license.
+
+2. Permission to use
+
+GPL-3.0 permits use, copying, modification, building, and distribution of
+covered source and applications under its terms. The following additional
+conditions apply to original Coding-board material covered by this document.
+
+3. Conditions
+
+When redistributing source, retain this license, copyright notices, and
+attribution notices. Mark modified versions as modified and do not represent
+them as the unmodified original.
+
+Any application distributed with covered Coding-board material must show a
+clear attribution in an in-app About, Credits, or Open-source licenses screen:
+
+  This application uses Coding-board keyboard source by silent (Mohammad Nick),
+  adapted from Unexpected Keyboard by Julow.
+
+The in-app attribution must identify both Coding-board and Unexpected
+Keyboard as sources. Include the source project address
+<https://github.com/Julow/Unexpected-Keyboard> when the screen supports links.
+Keep this notice visible and accessible to users of the application.
+
+4. No endorsement
+
+You may not imply that the copyright holders or upstream authors endorse your
+application without their prior written permission.
+
+5. Disclaimer
+
+The covered material is provided "as is", without warranty of any kind, to
+the extent permitted by law. The copyright holders are not liable for claims
+or damages arising from its use.
+

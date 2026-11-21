@@ -1,0 +1,5 @@
+.gradle/
+.build-tools/
+**/build/
+local.properties
+.device-latest.png

@@ -1,0 +1,26 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'ir.nickapps.codingboard.demo'
+    compileSdk 35
+    buildToolsVersion '35.0.1'
+
+    defaultConfig {
+        applicationId 'ir.nickapps.codingboard.demo'
+        minSdk 23
+        targetSdk 28
+        versionCode 1
+        versionName '1.0'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    implementation project(':keyboard')
+}
