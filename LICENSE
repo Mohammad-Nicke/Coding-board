@@ -1,13 +1,13 @@
 Coding-board Additional Attribution Terms
 Version 1.0 — November 20, 2026
 
-Copyright (c) 2026 silent (Mohammad Nick)
+Copyright (c) 2026 Mohammad-Nicke (silent)
 
 1. Scope and relationship to GPL-3.0
 
 These are additional attribution terms under section 7(b) and 7(c) of the GNU
 General Public License version 3.0 (GPL-3.0). They apply to original material
-added to Coding-board by silent (Mohammad Nick), and must be read together
+added to Coding-board by Mohammad-Nicke (silent), and must be read together
 with GPL-3.0 when that material is conveyed as part of this project. The
 project's GPL-3.0 text is included in LICENSE-UNEXPECTED-KEYBOARD.
 
@@ -31,11 +31,12 @@ them as the unmodified original.
 Any application distributed with covered Coding-board material must show a
 clear attribution in an in-app About, Credits, or Open-source licenses screen:
 
-  This application uses Coding-board keyboard source by silent (Mohammad Nick),
+  This application uses Coding-board keyboard source by Mohammad-Nicke (silent),
   adapted from Unexpected Keyboard by Julow.
 
 The in-app attribution must identify both Coding-board and Unexpected
-Keyboard as sources. Include the source project address
+Keyboard as sources. Include the Coding-board project address
+<https://github.com/Mohammad-Nicke/Coding-board> and upstream project address
 <https://github.com/Julow/Unexpected-Keyboard> when the screen supports links.
 Keep this notice visible and accessible to users of the application.
 

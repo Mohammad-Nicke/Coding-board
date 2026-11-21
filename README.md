@@ -2,7 +2,7 @@
 
 Standalone coding keyboard for Android, written in Java.
 
-**By silent** | [Mohammad Nick](https://github.com/Mohammad-Nicke)
+**By silent** · Project owner: [Mohammad-Nicke](https://github.com/Mohammad-Nicke)
 
 ## Use
 

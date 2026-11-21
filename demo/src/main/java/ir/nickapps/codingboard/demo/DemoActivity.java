@@ -296,7 +296,9 @@ public final class DemoActivity extends Activity {
     private void showCredits() {
         TextView credits = new TextView(this);
         credits.setText(Html.fromHtml(
-                "This application uses Coding-board keyboard source by silent (Mohammad Nick), "
+                "This application uses <a href=\"https://github.com/Mohammad-Nicke/Coding-board\">"
+                        + "Coding-board</a> keyboard source by <a href=\"https://github.com/Mohammad-Nicke\">"
+                        + "Mohammad-Nicke</a> (silent), "
                         + "adapted from <a href=\"https://github.com/Julow/Unexpected-Keyboard\">"
                         + "Unexpected Keyboard by Julow</a>.",
                 Html.FROM_HTML_MODE_LEGACY));
